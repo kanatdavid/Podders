@@ -1,0 +1,15 @@
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.AssemblyInfo.cs
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Podder\Services-Podders\bin\Debug\net9.0\Services-Podders.deps.json
+C:\Users\david\Desktop\Podder\Services-Podders\bin\Debug\net9.0\Services-Podders.dll
+C:\Users\david\Desktop\Podder\Services-Podders\bin\Debug\net9.0\Services-Podders.pdb
+C:\Users\david\Desktop\Podder\Services-Podders\bin\Debug\net9.0\Models-Podders.dll
+C:\Users\david\Desktop\Podder\Services-Podders\bin\Debug\net9.0\Models-Podders.pdb
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services.73F61E15.Up2Date
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.dll
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\refint\Services-Podders.dll
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\Services-Podders.pdb
+C:\Users\david\Desktop\Podder\Services-Podders\obj\Debug\net9.0\ref\Services-Podders.dll

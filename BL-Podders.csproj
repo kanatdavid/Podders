@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>BL_Podders</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models-Podders\Models-Podders.csproj" />
+    <ProjectReference Include="..\Services-Podders\Services-Podders.csproj" />
+  </ItemGroup>
+
+</Project>

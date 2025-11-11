@@ -5,14 +5,6 @@ VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Podders", "Podders.csproj", "{17B05570-E014-40F0-B75B-02AD156D8C7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL-Podders", "..\BL-Podders\BL-Podders.csproj", "{BD560037-2225-4DFA-A593-9372348FD607}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services-Podders", "..\Services-Podders\Services-Podders.csproj", "{082BBCD1-0DED-4D53-A7F1-0C5C9FEFD03F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL-Podders", "..\DAL-Podders\DAL-Podders.csproj", "{319A6DFF-73E8-4A80-9E23-4D0A75DB2CF8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models-Podders", "..\Models-Podders\Models-Podders.csproj", "{479B5313-DC9C-444D-8386-E9AB7483C9B5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,22 +15,6 @@ Global
 		{17B05570-E014-40F0-B75B-02AD156D8C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17B05570-E014-40F0-B75B-02AD156D8C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17B05570-E014-40F0-B75B-02AD156D8C7C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BD560037-2225-4DFA-A593-9372348FD607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD560037-2225-4DFA-A593-9372348FD607}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD560037-2225-4DFA-A593-9372348FD607}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD560037-2225-4DFA-A593-9372348FD607}.Release|Any CPU.Build.0 = Release|Any CPU
-		{082BBCD1-0DED-4D53-A7F1-0C5C9FEFD03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{082BBCD1-0DED-4D53-A7F1-0C5C9FEFD03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{082BBCD1-0DED-4D53-A7F1-0C5C9FEFD03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{082BBCD1-0DED-4D53-A7F1-0C5C9FEFD03F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{319A6DFF-73E8-4A80-9E23-4D0A75DB2CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{319A6DFF-73E8-4A80-9E23-4D0A75DB2CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{319A6DFF-73E8-4A80-9E23-4D0A75DB2CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{319A6DFF-73E8-4A80-9E23-4D0A75DB2CF8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{479B5313-DC9C-444D-8386-E9AB7483C9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{479B5313-DC9C-444D-8386-E9AB7483C9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{479B5313-DC9C-444D-8386-E9AB7483C9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{479B5313-DC9C-444D-8386-E9AB7483C9B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

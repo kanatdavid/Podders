@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BL-Podders/1.0.0": {
+        "dependencies": {
+          "Models-Podders": "1.0.0",
+          "Services-Podders": "1.0.0"
+        },
+        "runtime": {
+          "BL-Podders.dll": {}
+        }
+      },
+      "Models-Podders/1.0.0": {
+        "runtime": {
+          "Models-Podders.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Services-Podders/1.0.0": {
+        "dependencies": {
+          "Models-Podders": "1.0.0"
+        },
+        "runtime": {
+          "Services-Podders.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BL-Podders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models-Podders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services-Podders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
